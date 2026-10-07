@@ -18,4 +18,4 @@ Hi, I'm Yash, an undergrad based on earth.
 
 ## Reach me
 
-yashogale3031@gmail.com | [LinkedIn](https://www.linkedin.com/in/yash-ogale-03a30b2aa/) | [Site](https://yashogale.vercel.app) 
+yashogale3031@gmail.com | [LinkedIn](https://www.linkedin.com/in/yash-ogale-03a30b2aa/) | [Site](https://yashogale.vercel.app) | [Leetcode](https://leetcode.com/u/yashogale/)
