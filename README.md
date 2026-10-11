@@ -3,7 +3,7 @@ Hi, I'm Yash, an undergrad based on earth.
 * Interned a summer at Goldman Sachs
 * Been into tech since childhood
 * Love building backend products, deep learning projects
-* Shipping scalable full stack applications
+* Shipping scalable applications
 * Love math and C++
 
 ## Skills
